@@ -4,7 +4,7 @@
 Note: Do NOT edit directly, this file was generated using https://github.com/chainguard-images/readme-generator
 -->
 
-[![CI status](https://github.com/chainguard-images/sdk/actions/workflows/release.yaml/badge.svg)](https://github.com/chainguard-images/sdk/actions/workflows/release.yaml)
+[![CI status](https://github.com/jdolitsky/sdk/actions/workflows/release.yaml/badge.svg)](https://github.com/jdolitsky/sdk/actions/workflows/release.yaml)
 
 Development image for [melange](https://github.com/chainguard-dev/melange) and [apko](https://github.com/chainguard-dev/apko).
 
@@ -20,8 +20,8 @@ docker pull cgr.dev/chainguard/sdk:latest
 
 | Tag | Digest | Arch |
 | --- | ------ | ---- |
-| `latest` | `sha256:5e9488e223615d30abbe85609b894657f8ba2c8c4a127db292fd2406d074aba0`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:5e9488e223615d30abbe85609b894657f8ba2c8c4a127db292fd2406d074aba0) | `amd64` `arm64` `armv7` |
 | `0.0.1-r0-glibc` | `sha256:e2d472c45f83523500ae0b004c1f611faac922bf05ed3e508717636938051740`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:e2d472c45f83523500ae0b004c1f611faac922bf05ed3e508717636938051740) |  |
+| `latest` | `sha256:5e9488e223615d30abbe85609b894657f8ba2c8c4a127db292fd2406d074aba0`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:5e9488e223615d30abbe85609b894657f8ba2c8c4a127db292fd2406d074aba0) | `amd64` `arm64` `armv7` |
 
 
 ## Usage
